@@ -11,7 +11,7 @@ A passionate software developer and cloud enthusiast.
 - 🔭 I’m currently working at Seamfix Limited
 - 🌱 I'm making conscious effort to improve myself daily
 - 💻  Most used line of code `git commit -m " ... " `
-- 🤔 I’m looking for help with  cloud native design.
+- 🤔 I’m looking to grow my career further in cloud based architectures
 - 📫 How to reach me: emeasobatochi@gmail.com.
 - 😄 Pronouns: Tochie, Cloud enthusiast, Full stack engineer.
 - ⚡ Fun fact: I play games and live by the music literally.
